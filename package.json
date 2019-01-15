@@ -1,22 +1,25 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "selling_table",
+  "version": "0.0.1",
+  "description": "An application to track selling for my Mom",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmakovFX/sellingTable.git"
+  },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
-  "author": "GitHub",
+  "author": "ErmakovFX",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^4.0.1"
-  }
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
 }
